@@ -4,3 +4,4 @@ var x = Armen;
 
 console.log(x);
 
+var y - Avagyan;
